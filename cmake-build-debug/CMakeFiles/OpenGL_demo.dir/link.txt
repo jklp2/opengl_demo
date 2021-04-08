@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/OpenGL_demo.dir/main.cpp.o CMakeFiles/OpenGL_demo.dir/3rd_party/glad-c/src/glad.c.o  -o OpenGL_demo  3rd_party/glfw/src/libglfw3.a -ldl -lpthread /usr/lib/x86_64-linux-gnu/librt.so -lm -ldl 
